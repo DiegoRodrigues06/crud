@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DBNavigator.Project.CodeGeneratorManager">
+    <generator-states>
+      <generator-state category="JAVA">
+        <module-selection value="crud" />
+        <content-root-selection value="$PROJECT_DIR$/src/main/java" />
+      </generator-state>
+    </generator-states>
+  </component>
   <component name="DBNavigator.Project.DDLFileAttachmentManager">
     <mappings />
     <preferences />
   </component>
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseAssistantManager">
@@ -31,7 +39,9 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="3298626d-d4ba-4fc3-9d9e-6418d6d273d8" object-ref="consoles/H2" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="3298626d-d4ba-4fc3-9d9e-6418d6d273d8" />
